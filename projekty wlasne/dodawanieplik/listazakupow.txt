@@ -1,0 +1,5 @@
+maka 3 550
+banany 7 340
+sok 3 600
+jogurty 4 420
+ciastka 2 460
